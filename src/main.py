@@ -1,7 +1,5 @@
 def calculate() -> float:
-    pass
-
-if '-' in entrada:
+    if '-' in entrada:
         partes = entrada.split('-')
         if len(partes) == 2:
                 num1 = float(partes[0])
