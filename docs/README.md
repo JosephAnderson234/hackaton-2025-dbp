@@ -1,0 +1,3 @@
+
+Falí Ferdinand Araoz Arana
+Soy un estudiante de CS en la UTEC, amo esta universidad con pasión. Soy feliz, por ahora...
