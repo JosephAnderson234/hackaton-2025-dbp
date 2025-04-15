@@ -1,0 +1,1 @@
+Karolay Tamayo: Estudiante de Ciencia de la computación en la UTEC.
